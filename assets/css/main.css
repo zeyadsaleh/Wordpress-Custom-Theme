@@ -1,0 +1,52 @@
+.single-page{
+    background-color:rgb(224, 19, 19);
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+
+.post-item{
+    display: block;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 25px;
+    min-height: 50%;
+    background-color: rgba(128, 128, 128, 0.151);
+    margin-bottom: 25px;
+}
+
+nav ul li{
+    margin-right:24px;
+
+}
+
+nav ul li a{
+    color: white;
+}
+
+
+
+a:hover {
+    color: black;
+  }
+
+a{
+    color: black;
+}
+
+#role{
+    font-size: 20px;
+}
+
+#company{
+    font-size: 25px;
+}
+
+#date{
+    font-size: 25px;
+}
+
+center{
+    text-decoration: underline;
+}
+
